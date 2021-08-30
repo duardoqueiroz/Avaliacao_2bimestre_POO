@@ -5,7 +5,7 @@
 
 <h3 align = "center">Dada a seguinte situação:</h3>
 
-O Escritório Advogados S.A. trabalham cerca de 25 advogados, de diversas especialidades. Há uma
+<p align = "left">O Escritório Advogados S.A. trabalham cerca de 25 advogados, de diversas especialidades. Há uma
 grande quantidade de livros numa sala, onde os advogados podem pegá-los para empréstimo. Esses
 livros são importantes para tirar dúvidas e redigir os processos. Dada essa necessidade, você será
 responsável por implementar em JAVA, a situação do controle dos livros. Cada livro possui título,
@@ -18,12 +18,12 @@ advogados. E para cada um são registrados: nome, CPF, telefone, data que foi ad
 departamento que atua (a empresa tem 4 departamentos, cada um possui nome, responsável e a
 quantidade de processos). Na devolução, é solicitada a quantidade de dias que o advogado ficou com
 o livro, e se for maior que 10 dias, ele deverá pagar uma multa no valor de 10% do preço do livro por
-dia, além dos 10 dias que o advogado tem direito.</br>
+dia, além dos 10 dias que o advogado tem direito.</p></br>
 
 ##
 
 
-<h3>Pede-se que você que utilizando a linguagem JAVA:</h3>
+<h3>Pede-se que você, utilizando a linguagem JAVA:</h3>
 1. Identifique além da classe Principal/Main, pelo menos 3 classes</br>
 2. Faça as criações dos objetos (pelo menos 2 de cada classe identificada)</br>
 3. Apresente o seguinte menu</br>
